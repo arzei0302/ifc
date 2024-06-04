@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: kg\n"
+
+msgid "Hello, world!"
+msgstr "Салам дүйнө"
+
+msgid "Goodbye!"
+msgstr "Кош болуңуз!"
+
+msgid "News"
+msgstr "Жаңылыктар"
+
