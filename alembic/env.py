@@ -13,8 +13,8 @@ config = context.config
 # This line sets up loggers basically.
 fileConfig(config.config_file_name)
 
-from app.database import Base
-from app.models import IfcNews
+from core.config import settings
+from models import Base
 
 target_metadata = Base.metadata
 
